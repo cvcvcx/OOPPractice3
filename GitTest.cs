@@ -6,5 +6,6 @@ namespace OOPPractice3
 {
     class GitTest
     {
+        int hp = 0;
     }
 }
